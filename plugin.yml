@@ -1,0 +1,6 @@
+name: AntiSpam
+version: 1.0.0
+main: AntiSpam\Main
+api: 5.0.0
+author: Zieragk
+description: Un plugin pa que un mono no empieze a expresar sus sentimientos de gay
